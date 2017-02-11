@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../test/integration/aws.template - [aws-lambda-ffmpeg]'" />
-    <option name="defaultScopeName" value="File '.../test/integration/aws.template - [aws-lambda-ffmpeg]'" />
-    <option name="SEARCH_SCOPE" value="File '.../test/integration/aws.template - [aws-lambda-ffmpeg]'" />
+    <option name="customScope" value="File '.../app/components/language-picker/component.js - [isp]'" />
+    <option name="defaultScopeName" value="File '.../app/components/language-picker/component.js - [isp]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/components/language-picker/component.js - [isp]'" />
     <option name="FILE_MASK" value="!discover.hbs" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -15,6 +15,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js,!vendor.js</mask>
+      <mask>!bower_components !node_modules</mask>
+      <mask>!bower_components !node_modules !dist</mask>
       <mask>!discover.hbs</mask>
     </recentFileMasks>
   </component>
