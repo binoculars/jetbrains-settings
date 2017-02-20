@@ -1,9 +1,9 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-02-08T12:59:58</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-02-10T19:12:01</property>
+    <property name="created">2017-02-13T21:14:37</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-02-15T16:21:08</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
