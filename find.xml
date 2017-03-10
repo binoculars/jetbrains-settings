@@ -3,6 +3,7 @@
     <option name="customScope" value="File '.../app/components/language-picker/component.js - [isp]'" />
     <option name="defaultScopeName" value="File '.../app/components/language-picker/component.js - [isp]'" />
     <option name="SEARCH_SCOPE" value="File '.../app/components/language-picker/component.js - [isp]'" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>!bower_components !node_modules</mask>
       <mask>!bower_components !node_modules !dist</mask>
       <mask>!discover.hbs</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
