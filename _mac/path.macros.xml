@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="AWS_REGION" value="us-east-1" />
+  </component>
+</application>
