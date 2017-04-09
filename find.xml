@@ -18,6 +18,11 @@
       <mask>!discover.hbs</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
