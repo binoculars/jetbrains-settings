@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="workon" />
       <option name="PARAMETERS" value="osf" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
