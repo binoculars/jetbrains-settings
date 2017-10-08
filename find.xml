@@ -6,25 +6,36 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js,!vendor.js</mask>
       <mask>!bower_components !node_modules</mask>
       <mask>!bower_components !node_modules !dist</mask>
       <mask>!discover.hbs</mask>
-      <mask>*.py</mask>
       <mask>*.j</mask>
       <mask>*.hbs</mask>
       <mask>*.hb</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>.js</mask>
+      <mask>browser-auto-tracking.js</mask>
+      <mask>!.</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.l</mask>
+      <mask>!*.lock</mask>
+      <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+      <mask>b</mask>
+      <mask>bo</mask>
+      <mask>bower</mask>
+      <mask>bower.</mask>
+      <mask>bower.j</mask>
+      <mask>bower.jso</mask>
+      <mask>bower.json</mask>
     </recentFileMasks>
   </component>
 </application>
